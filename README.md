@@ -7,12 +7,11 @@
 I'm a dedicated full-stack developer and a 3rd-year undergraduate student in computer science, passionate about web development, algorithms, and data structures. Always eager to learn and innovate in tech.
 * Contact me -> 16rzsrashid@gmail.com
 
+<img alt="animated-gif" width="450" align="right" src="https://github.com/Rashidziya/Rashidziya/blob/main/gif%20image%20for%20readme%20profile.gif" />
+
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,postgres,postman,php,expressjs,nodejs,docker)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,nextjs)](https://skillicons.dev)
-
-
-![Coding GIF](https://github.com/Rashidziya/Rashidziya/blob/main/gif%20image%20for%20readme%20profile.gif)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,postgres,postman,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,nodejs,cloudflare,aws,nextjs,php)](https://skillicons.dev)
 
 
 ### Socials
