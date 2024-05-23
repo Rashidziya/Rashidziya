@@ -1,12 +1,9 @@
 
-
-### Hi there 👋,I'm Rashid Ziya
-#### Full Stack Developer
 ![Full Stack Developer](https://pbs.twimg.com/profile_banners/1244624565684146176/1716462293/1500x500)
-
+### Hi there 👋,I'm Rashid Ziya
 I'm a dedicated full-stack developer and a 3rd-year undergraduate student in computer science, passionate about web development, algorithms, and data structures. Always eager to learn and innovate in tech.
 
-Skills: REACT / JS / HTML / CSS / TS 
+
 
 
 
