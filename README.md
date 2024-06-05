@@ -12,7 +12,7 @@ I'm a dedicated full-stack developer and a 3rd-year undergraduate student in com
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=postgres,postman,expressjs,docker,nodejs)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,nextjs,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,aws,nextjs)](https://skillicons.dev)
 
 
 ### Socials
